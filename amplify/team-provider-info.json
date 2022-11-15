@@ -10,6 +10,14 @@
       "StackName": "amplify-nextsample-main-114826",
       "StackId": "arn:aws:cloudformation:ap-southeast-2:521956299881:stack/amplify-nextsample-main-114826/37906eb0-647f-11ed-9631-06efb233482e",
       "AmplifyAppId": "d329hin1d1waep"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d329hin1d1waep",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
